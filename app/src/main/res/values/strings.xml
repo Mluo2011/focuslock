@@ -1,0 +1,3 @@
+<resources>
+    <string name="service_desc">Shows the focus timer over every app until the time you set is up.</string>
+</resources>
